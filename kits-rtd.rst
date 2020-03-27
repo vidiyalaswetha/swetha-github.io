@@ -1,4 +1,5 @@
-<h1>Simple GitHub repo and ReadTheDocs set up</h1>
-<p>I've just wanted to set up a GitHub repository for this guide and I found that it's really ubearable to set so simple thing as this.</p>
+<h2>CYBLE-022001-EVAL EZ-BLE™ PRoC™ Evaluation Board</h2>
+                            <p>The CYBLE-022001-EVAL EZ-BLE PRoC Evaluation Board enables you to evaluate and develop applications on the EZ-BLE PRoC Module.</p>
 
-<p>Here is short guide which should walk you through:</p>
+                            <a href="https://www.cypress.com/documentation/development-kitsboards/cyble-022001-eval-ez-ble-proc-evaluation-board">https://www.cypress.com/documentation/development-kitsboards/cyble-022001-eval-ez-ble-proc-evaluation-board</a> 							
+						
