@@ -38,6 +38,7 @@ https://www.cypress.com/documentation/development-kitsboards/cy4521-ez-pd-ccg2-e
 CY4501 CCG1 Development Kit
 ============================
 The CY4501 CCG1 Development Kit (DVK) is based on the CCG1 product family of Cypresss USB microcontrollers. This DVK is primarily intended to be a development vehicle for USB host...
+
 https://www.cypress.com/documentation/development-kitsboards/cy4501-ccg1-development-kit
 
 Automotive CY3290-TMA1036A TrueTouch® Evaluation Kit
