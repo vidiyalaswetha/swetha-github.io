@@ -61,4 +61,5 @@ https://www.cypress.com/documentation/development-kitsboards/cy3290-cyat8168x-au
 SK-FM4-120PMC-TFT HMI Reference Design, TFT Direct Drive
 ==========================================================
 To List for Evaluation Board The evaluation board is a versatile solution to develop HMI – human machine interface applications, based on Cypress‘s FM4 microcontrollers of the MB9B...
+
 https://www.cypress.com/documentation/development-kitsboards/sk-fm4-120pmc-tft-hmi-reference-design-tft-direct-drive
